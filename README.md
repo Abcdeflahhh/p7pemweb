@@ -9,9 +9,42 @@
 ---
 
 ## 📸 Tampilan Program
-![Tampilan Program PHP Dasar](https://github.com/username/repository-name/blob/main/screenshot.png)
 
-> *(Ganti link di atas dengan tautan gambar hasil screenshot tampilan program kamu di GitHub)*
+**1. Memulai PHP**
+
+![gambar](https://github.com/Abcdeflahhh/p7pemweb/blob/ff5b34455f3fcb67726d6e48e35000a8034aabae/image/2025-11-13%2017_48_26-Greenshot.png)
+
+**2. PHP DASAR**
+
+![gambar](https://github.com/Abcdeflahhh/p7pemweb/blob/ff5b34455f3fcb67726d6e48e35000a8034aabae/image/2025-11-13%2017_49_14-Greenshot.png)
+
+**3. VARIABLE PHP**
+
+![gambar](https://github.com/Abcdeflahhh/p7pemweb/blob/ff5b34455f3fcb67726d6e48e35000a8034aabae/image/2025-11-13%2017_50_46-Greenshot.png)
+
+**4. PREDEFINE VARIABLE**
+
+![gambar](https://github.com/Abcdeflahhh/p7pemweb/blob/ff5b34455f3fcb67726d6e48e35000a8034aabae/image/2025-11-13%2017_51_40-Greenshot.png)
+
+**5. FROM INPUT**
+
+![gambar](https://github.com/Abcdeflahhh/p7pemweb/blob/ff5b34455f3fcb67726d6e48e35000a8034aabae/image/2025-11-13%2017_52_15-Greenshot.png)
+
+**6. OPERATOR, KONDISI IF, KONDISI SWITCH, PERULANGAN FOR**
+
+![gambar](https://github.com/Abcdeflahhh/p7pemweb/blob/ff5b34455f3fcb67726d6e48e35000a8034aabae/image/2025-11-13%2017_57_45-Greenshot.png)
+
+**7. PERULANGAN FOR, PERULANGAN WHILE**
+
+![gambar](https://github.com/Abcdeflahhh/p7pemweb/blob/ff5b34455f3fcb67726d6e48e35000a8034aabae/image/2025-11-13%2017_58_25-Greenshot.png)
+
+**8. PERULANGAN WHILE, PERULANGAN DO WHILE**
+
+![gambar](https://github.com/Abcdeflahhh/p7pemweb/blob/ff5b34455f3fcb67726d6e48e35000a8034aabae/image/2025-11-13%2017_58_57-Greenshot.png)
+
+**9. FORM INPUT DATA DIRI**
+
+![gambar](https://github.com/Abcdeflahhh/p7pemweb/blob/ff5b34455f3fcb67726d6e48e35000a8034aabae/image/2025-11-13%2017_59_57-Greenshot.png)
 
 ---
 
